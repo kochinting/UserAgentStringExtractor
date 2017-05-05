@@ -1,6 +1,6 @@
 
 """
-Shape Security Data Engineer Coding Challenge
+Data Engineer Coding Challenge
 Chin-Ting Ko  04/22/2017
 
 This program is to build a machine learning tool to extract/predict browser family and major version from user agents strings.
