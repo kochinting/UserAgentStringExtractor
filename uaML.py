@@ -13,7 +13,6 @@ from sklearn import metrics
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 
-
 word_freq = {}
 user_agent = []
 ua_features = {}
